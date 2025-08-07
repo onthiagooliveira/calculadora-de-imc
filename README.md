@@ -1,7 +1,8 @@
 # 💪 Calculadora de IMC
 
 Projeto desenvolvido como desafio **não obrigatório** do programa **Oracle Next Education (ONE) + Alura**. Trata-se de uma **aplicação web responsiva** que permite ao usuário calcular seu **Índice de Massa Corporal (IMC)** com base no peso e altura informados.
-<img width="373" height="702" alt="image" src="https://github.com/user-attachments/assets/62e3dabe-6e3e-4888-9d14-40bdce04272f" />
+<img width="373" height="702" alt="image" src="https://github.com/user-attachments/assets/6620941c-4b9e-4c70-b54c-ba91c394a202" />
+
 
 🔗 **Acesse a aplicação online:**  
 👉 [https://vercel.com/onthiagooliveiras-projects/calculadora-de-imc/DaTiz7JAaqpToEaMqLB9hRKvhEtc](https://vercel.com/onthiagooliveiras-projects/calculadora-de-imc/DaTiz7JAaqpToEaMqLB9hRKvhEtc)
