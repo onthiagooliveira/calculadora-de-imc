@@ -6,9 +6,6 @@ Desafio **não obrigatório** do programa **Oracle Next Education (ONE) + Alura*
 🔗 **Acesse a aplicação online:**  
 👉 [https://vercel.com/onthiagooliveiras-projects/calculadora-de-imc/DaTiz7JAaqpToEaMqLB9hRKvhEtc](https://calculadora-de-20468ldeq-onthiagooliveiras-projects.vercel.app/)
 
-<img width="301" height="539" alt="image" src="https://github.com/user-attachments/assets/336e1f38-51bf-494d-ad7c-42ce20d929e7" />
-
----
 
 ##  Sobre o projeto
 
